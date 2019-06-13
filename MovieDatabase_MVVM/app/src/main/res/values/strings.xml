@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="api_key">bcc651ded54e26ea0d11d64e34ad699e</string>
+    <string name="title_activity_movie">MovieActivity</string>
+</resources>

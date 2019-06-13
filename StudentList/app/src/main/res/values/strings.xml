@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentList</string>
+    <string name="student_name">Student Name:</string>
+    <string name="name">name</string>
+    <string name="student_email">Student Email:</string>
+    <string name="email_address">email address</string>
+    <string name="student_country">Student Country:</string>
+    <string name="country">country</string>
+    <string name="submit">Submit</string>
+</resources>

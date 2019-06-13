@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_description">Book Description</string>
+    <string name="book_unit_price">Book Unit Price</string>
+    <string name="submit">Submit</string>
+</resources>
